@@ -1,0 +1,9 @@
+1) database yang digunakan : ta_6.sql
+
+2) gambar-gambar yang digunakan untuk postingan, dipanggil dari folder "image" (image.rar)
+
+3) terdapat juga TA6.rar yang saya upload berisi semua source code yg saya buat dalam satu folder
+
+
+
+Terimakasih kakak-kakak, semangat selalu :)
